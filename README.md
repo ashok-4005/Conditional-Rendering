@@ -1,12 +1,9 @@
-# React + Vite
+# Conditional Rendering in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React-based project is a simple and interactive Riddle App that displays a list of riddles fetched from a local data file. Each riddle is displayed with a "Show Answer" button that, when clicked, reveals the answer beneath it. The button then dynamically changes to "Hide Answer", allowing users to toggle the visibility of the answer. This functionality is implemented using React's useState hook and conditional rendering. Each riddle is handled by a reusable Riddle component, making the code clean, modular, and easy to scale. The project is a great example of managing component state and rendering logic in a functional React application.
 
-Currently, two official plugins are available:
+Output ScreenShot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![]()
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
