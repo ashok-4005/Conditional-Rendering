@@ -4,6 +4,6 @@ This React-based project is a simple and interactive Riddle App that displays a 
 
 Output ScreenShot
 
-![]()
+![](ss.png)
 
 
